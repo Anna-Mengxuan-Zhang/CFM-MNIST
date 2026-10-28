@@ -1,2 +1,2 @@
 # CFM-MNIST
-A linear CFM model with UNet backbone trained on MNIST
+A Linear Conditional Flow Matching model with UNet trained on MNIST
